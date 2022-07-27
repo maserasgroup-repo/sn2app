@@ -1,7 +1,7 @@
-# BDE React App
+# SN2 App
 
-A React app to calculate Bond Dissociation Energies as described in [1].
+An app to calculate hidden descriptors (HDs) for nucleophiles in the bimolecular nucleophilic substitution reaction [1].
 
-See the result at [maserasgroup-repo.github.io/bdeapp](https://maserasgroup-repo.github.io/bdeapp)
+See the result at [maserasgroup-repo.github.io/sn2app](https://maserasgroup-repo.github.io/sn2app)
 
-[1] O. Lakuntza, M. Besora, F. Maseras. "Searching for Hidden Descriptors in the Metal-Ligand Bond through Statistical Analysis of Density Functional Theory (DFT) Results", 2018. Inorg. Chem. 57, 23, 14660-14670.
+[1] L. Morán, M. Besora, F. Maseras. "Seeking the Optimal Descriptor for SN2 Reactions through Statistical Analysis of Density Functional Theory Results", 2022. J. Org. Chem. 87, 1, 363–372.
