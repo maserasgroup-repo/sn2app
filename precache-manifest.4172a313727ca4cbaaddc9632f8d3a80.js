@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/sn2app/static/js/runtime~main.5043c760.js"
   },
   {
-    "revision": "786aead8c1e231361de29300fae74352",
+    "revision": "3ab7774015bad9be8fb3c59e155f58de",
     "url": "/sn2app/index.html"
   }
 ];
